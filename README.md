@@ -9,7 +9,7 @@ Kazan National Research Technological University, 2013-2017, Applied Mathematics
 - DB: `Postgres`, `MongoDB`, `Redis`, `Mysql`
 - VCS: `git`, `mercurial`
 - Operating Systems: `Linux`, `Mac OS`
-- Technologies: `RabbitMQ`, `Docker`
+- Technologies: `RabbitMQ`, `Docker`, `Apache Kafka`
 
 ## Certificates
 [Lightbend Reactive Architect](https://lightbend.mettl.com/applicant/result/download-certificate?key=haqRd%2Ft7JdQaiykrZ%2Bo6iw%3D%3D)
