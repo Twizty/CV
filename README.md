@@ -19,8 +19,11 @@ Kazan National Research Technological University, 2013-2017, Applied Mathematics
 - [redis4cats](https://github.com/profunktor/redis4cats)
 
 ## Experience:
-- EPAM _(11.2019 - now)_:
+- m2.ru _(11.2019 - 02.2020)_:
   - .
+    - Technologies: `scala`, `zio`, `cats`, `mongodb`, `event sourcing`
+- EPAM _(11.2019 - 02.2020)_:
+  - Logistics platform
     - Technologies: `scala`, `zio`, `akka`, `cats`
 - eLama _(01.2019 - 10.2019)_:
   - Advertisement platform
