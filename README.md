@@ -16,15 +16,15 @@ Kazan National Research Technological University, 2013-2017, Applied Mathematics
 - [redis4cats](https://github.com/profunktor/redis4cats)
 
 ## Experience:
-- OZON.ru
+- OZON.ru  _(08.2023 - now)_
   - OZON Communication platform
     - Development and optimization of a chat application based on mattermost
     - Scaling mattermost on a big company (50k active chat users)
     - Overall performance improvement of the old mattermost features (search/caching/etc)
     - Migration to a sharded database
     - Technologies: `go`, `postgres`, `k8s`, `redis`
-- Tinkoff.ru
-  - SME Bank _(06.2022 - 07.2023)_
+- Tinkoff.ru _(06.2022 - 07.2023)_
+  - SME Bank
     - Technologies: `scala`, `zio`, `cats`, `couchbase`, `kafka`
 - Yandex _(05.2021 - 06.2022)_:
   - auto.ru
